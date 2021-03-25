@@ -1,1 +1,1 @@
-Worker: node AntiNuke.js
+Worker: node index.js
