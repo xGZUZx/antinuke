@@ -1,0 +1,14 @@
+{
+    "emojis": [{
+            "id": "1",
+            "name": "one",
+            "radio_id": "0"
+        },
+        {
+            "id": "2",
+            "name": "two",
+            "radio_id": "1"
+
+        }
+    ]
+}

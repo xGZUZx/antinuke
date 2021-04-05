@@ -1,0 +1,13 @@
+{
+    "roles": [{
+            "id": "0",
+            "name": "FM Sergipe (99.5)",
+            "link": "http://08.stmip.net:8012/;stream.mp3"
+        },
+        {
+            "id": "1",
+            "name": "Jovem PAN (88.7)",
+            "link": "http://glomes.sintonizar.radio.br:8088/glomesjpa/glomesjpa/icecast.audio?1596215873106"
+        }
+    ]
+}

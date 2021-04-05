@@ -1,1 +1,1 @@
-worker: nodemon raid.js
+worker: node ./src/app.js
