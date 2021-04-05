@@ -1,1 +1,1 @@
-worker: node raid.js
+worker: nodemon raid.js
